@@ -1,0 +1,8 @@
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\bin\Debug\NT7PTO.exe.config
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\bin\Debug\NT7PTO.exe
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\bin\Debug\NT7PTO.pdb
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\obj\Debug\NT7PTO.csproj.AssemblyReference.cache
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\obj\Debug\NT7PTO.csproj.SuggestedBindingRedirects.cache
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\obj\Debug\NT7PTO.csproj.CoreCompileInputs.cache
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\obj\Debug\NT7PTO.exe
+C:\Users\Márton\Desktop\sztfOraiMunka\Feleves\NT7PTO\obj\Debug\NT7PTO.pdb

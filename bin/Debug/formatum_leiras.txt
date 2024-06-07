@@ -1,0 +1,1 @@
+az alaprajz mérete elvileg nem számít de az AP-k sugara a 101x41-es alaprajzhoz lett igazítva
